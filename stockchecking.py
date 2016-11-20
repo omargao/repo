@@ -9,12 +9,6 @@
         gss = GETSTOCK_Small()
         gss.getstockandsave()
 
-<<<<<<< HEAD
-
-
-        #test
-        #test
-        $test delete private branch variabl
         """
         #wc=warningcheck()
         #wc.checkprice()
