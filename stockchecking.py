@@ -1355,7 +1355,14 @@ def main():
         gmfs.getstockandsave()
         gss = GETSTOCK_Small()
         gss.getstockandsave()
+
+
+
+        #test
+        #test
+        $test delete private branch variable
         """
+        test
         #wc=warningcheck()
         #wc.checkprice()
         #wc.checkmasterout_oneday()
