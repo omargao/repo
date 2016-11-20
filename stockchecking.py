@@ -1355,7 +1355,6 @@ def main():
         gmfs.getstockandsave()
         gss = GETSTOCK_Small()
         gss.getstockandsave()
-        #Test merge code
         """
         #wc=warningcheck()
         #wc.checkprice()
